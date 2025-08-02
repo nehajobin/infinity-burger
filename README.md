@@ -71,6 +71,8 @@ For Software:
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+<img width="1366" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/e91a0ccb-6da6-4572-a0e1-4fa4c85fa605" />
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
